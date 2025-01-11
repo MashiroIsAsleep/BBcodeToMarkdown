@@ -1,0 +1,8 @@
+bbcode:
+[b][/b] bold
+[i][/i] italic
+[u][/u] underscore
+[size=<size>][/size]
+[url][/url] hyperlink
+[url=<https://myurl.com/>]<description text>[/url] hyperlink with replacement text
+[img]<imgbur link>[/img] online stored image
