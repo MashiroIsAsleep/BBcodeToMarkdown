@@ -65,7 +65,7 @@ def bbcode_to_markdown(bbcode_text):
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: bbcode_to_md.py <path_to_bbcode_file>")
+        print("Usage: cd, then python bbcode_to_md.py <path_to_bbcode_file>")
         sys.exit(1)
 
     input_path = sys.argv[1]
